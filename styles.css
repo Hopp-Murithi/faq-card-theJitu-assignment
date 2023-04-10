@@ -49,7 +49,7 @@ main {
 .img::before {
   content: "";
   position: absolute;
-  bottom: 134px;
+  bottom: 135px;
   left: -90px;
   background: url("images/illustration-box-desktop.svg") no-repeat;
   width: 190px;
